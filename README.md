@@ -7,7 +7,7 @@
 
 An end-to-end Machine Learning web application built with **Streamlit** and **scikit-learn** that predicts product turnover class (**Fast ⚡**, **Slow 🐢**, or **Ignored 💤**) based on shelf placement, store demographics, product pricing, and customer traffic metrics.
 
-🚀 **Live Web App:** [https://shelf-placement-app-ridayastha.streamlit.app/](https://shelf-placement-app-ridayastha.streamlit.app/)
+🚀 **Live Web App:** [https://shelf-placement-app-ridayastha.streamlit.app/]([https://shelf-placement-predictor.streamlit.app/])
 
 ---
 
